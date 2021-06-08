@@ -1,2 +1,2 @@
-# react-playground
-A repo for testing out and learning about React
+# Intern Playground
+A repo for code written during tutorials for my summer 2021 internship.
