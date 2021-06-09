@@ -34,3 +34,5 @@ C:\Git\intern-playground\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.
 C:\Git\intern-playground\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.genruntimeconfig.cache
 C:\Git\intern-playground\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csproj.CopyComplete
 C:\Git\intern-playground\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\ASP.NET Core API.postman_collection.json
+C:\Git\intern-playground\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\nlog.config
+C:\Git\intern-playground\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\appsettings.Production.json
